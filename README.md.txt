@@ -20,3 +20,17 @@
 2. Compile all scripts in `02_functions/`.
 3. Run scripts in `01_goto/`.
 4. Execute `03_tests/B5_functions_in_select.sql` and `03_tests/test_validate_payroll.sql`.
+
+
+
+
+
+
+
+
+
+
+
+
+
+git remote add origin https://github.com/<your-github-username>/plsql-goto-functions-<yourStudentID>-<yourFirstname>.git

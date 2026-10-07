@@ -1,0 +1,9 @@
+# PL/SQL GOTO Statements & Functions Reflection
+
+## Key Learnings
+1. **GOTO Statements & Branching:** I learned how `GOTO` transfers execution control to defined labels. More importantly, I learned the strict scope restrictions in PL/SQL—specifically that `GOTO` cannot jump into an `IF` statement or loop block from outside.
+2. **PL/SQL Functions:** Writing modular functions improves code reusability. Calling functions directly inside SQL `SELECT` queries streamlines data transformation without requiring multiple complex joins or queries.
+3. **Exception Handling:** Handling exceptions like `NO_DATA_FOUND` inside functions ensures that SQL queries using these functions do not fail abruptly when invalid inputs are provided.
+
+## AI Usage Disclosure
+- I used AI Assistant (Gemini)   to discuss error handling patterns and structure verification for GitHub submission compliance.
